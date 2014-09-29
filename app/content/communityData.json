@@ -1,0 +1,1000 @@
+{
+   "d":{
+      "__type":"Pulte08.BusinessServices.SearchResult",
+      "SearchResultsList":[
+         {
+            "Point":{
+               "Latitude":42.738156,
+               "Longitude":-83.135047
+            }, 
+            "CommunityName":"Oakland Crest",
+            "City":"Oakland Township",
+            "StateAbbr":"MI", 
+            "CommunityId":209274, 
+            "Address1":"Southeast Corner of Rochester and Gunn Road",
+            "Address2":null,
+            "ZipCode":"48306",
+            "PageURL":"/communities/MI/oakland-township/OaklandCrest/209274/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-FamilyRoom2.jpg", 
+            "ComingSoonFlag":true, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"866-804-2566", 
+            "Feature1":"Coming Late Spring 2014",
+            "Feature2":"3,100-3,900 sq ft",
+            "Feature3":"Starting from $455,000", 
+            "Offers":[
+               "Coming Late Spring 2014 - Join our VIP List for Updates"
+            ],
+            "PriceMin":0,
+            "PriceMax":0,
+            "BedMin":0,
+            "BedMax":0,
+            "BathMin":0,
+            "BathMax":0,
+            "SqftMin":0,
+            "SqftMax":0,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":0,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-FamilyRoom2.jpg",
+                  "caption":"Preliminary Plan - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Kitchen.jpg",
+                  "caption":"Preliminary Plan - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Laundry.jpg",
+                  "caption":"Preliminary Plan - The Eden",
+                  "Thumb":null
+               }
+            ],
+            "ID":209274, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Oakland Crest"
+         },
+         {
+            "Point":{
+               "Latitude":42.4626,
+               "Longitude":-83.583705
+            }, 
+            "CommunityName":"Tanglewood",
+            "City":"South Lyon",
+            "StateAbbr":"MI", 
+            "CommunityId":209277, 
+            "Address1":"53503 10 Mile Road",
+            "Address2":null,
+            "ZipCode":"48178",
+            "PageURL":"/communities/MI/south-lyon/Tanglewood/209277/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Dinette2.jpg", 
+            "ComingSoonFlag":true, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"877-229-5947", 
+            "Feature1":"27-hole golf course",
+            "Feature2":"Many cul-de-sac homesites",
+            "Feature3":"Exceptional South Lyon School District", 
+            "Offers":[
+               "Coming Summer 2014 - Join our VIP List"
+            ],
+            "PriceMin":0,
+            "PriceMax":0,
+            "BedMin":0,
+            "BedMax":0,
+            "BathMin":0,
+            "BathMax":0,
+            "SqftMin":0,
+            "SqftMax":0,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":0,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Dinette2.jpg",
+                  "caption":"Proposed Model - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Dinette3.jpg",
+                  "caption":"Proposed Model - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-Dinette.jpg",
+                  "caption":"Proposed Model - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-FamilyRoom.jpg",
+                  "caption":"Proposed Model - The Eden",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Minnesota/MN-PU-ReederRidge-5381/4.ModelPhotography/MN-IN-ReederRidge-Eden-FamilyRoom2.jpg",
+                  "caption":"Proposed Model - The Eden",
+                  "Thumb":null
+               }
+            ],
+            "ID":209277, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Tanglewood"
+         },
+         {
+            "Point":{
+               "Latitude":42.32657,
+               "Longitude":-83.460195
+            }, 
+            "CommunityName":"Willow Brook",
+            "City":"Canton",
+            "StateAbbr":"MI", 
+            "CommunityId":209275, 
+            "Address1":"Ford and Lilley Road",
+            "Address2":null,
+            "ZipCode":"48187",
+            "PageURL":"/communities/MI/canton/WillowBrook/209275/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/2. Renderings/renderings/WEB-Newberry4.jpg", 
+            "ComingSoonFlag":true, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"866-204-1011", 
+            "Feature1":"Coming Late Summer 2014",
+            "Feature2":"Starting from the Mid $200s",
+            "Feature3":"Home Range From 2,100 - 2,600 sq ft", 
+            "Offers":[
+               "Join Our VIP List for Updates"
+            ],
+            "PriceMin":0,
+            "PriceMax":0,
+            "BedMin":0,
+            "BedMax":0,
+            "BathMin":0,
+            "BathMax":0,
+            "SqftMin":0,
+            "SqftMax":0,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":0,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/2. Renderings/renderings/WEB-Newberry4.jpg",
+                  "caption":"The Newberry",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/2. Renderings/renderings/WEB-Newberry3.jpg",
+                  "caption":"The Newberry",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/2. Renderings/renderings/WEB-Newberry2.jpg",
+                  "caption":"The Newberry",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/2. Renderings/renderings/WEB-Newberry1.jpg",
+                  "caption":"The Newberry",
+                  "Thumb":null
+               }
+            ],
+            "ID":209275, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Willow Brook"
+         },
+         {
+            "Point":{
+               "Latitude":42.6609362,
+               "Longitude":-82.8742552
+            }, 
+            "CommunityName":"Sandstone at the Retreat",
+            "City":"Macomb",
+            "StateAbbr":"MI", 
+            "CommunityId":2086, 
+            "Address1":"23083 Lorenbrook Blvd",
+            "Address2":null,
+            "ZipCode":"48042",
+            "PageURL":"/communities/mi/macomb/sandstone-at-the-retreat/2086/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-SandstoneatTheRetreat-3323/Community/SandstoneCommunity01.png", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":2,
+            "PhoneNumber":"866-299-7086",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Condominium",
+            "MinPayment":1249,
+            "MaxPayment":1342.52,
+            "GeneralComments":null, 
+            "Feature1":"5,000 Sq.Ft. Clubhouse with Community Planned Activities",
+            "Feature2":"Large Outdoor Community Pool",
+            "Feature3":"Community Fitness Center", 
+            "Offers":[
+
+            ],
+            "PriceMin":225790,
+            "PriceMax":242780,
+            "BedMin":2,
+            "BedMax":3,
+            "BathMin":2.0,
+            "BathMax":3.0,
+            "SqftMin":1702,
+            "SqftMax":1910,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":2,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=rL2Z-TahCJs&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"rL2Z-TahCJs",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-SandstoneatTheRetreat-3323/Community/SandstoneCommunity01.png",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-SandstoneatTheRetreat-3323/Community/SandstoneCommunity03.png",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-SandstoneatTheRetreat-3323/Community/SandstoneCommunity05.png",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":2086, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Sandstone at the Retreat"
+         },
+         {
+            "Point":{
+               "Latitude":42.9320293,
+               "Longitude":-83.5840723
+            }, 
+            "CommunityName":"Gemstone Valley",
+            "City":"Grand Blanc",
+            "StateAbbr":"MI", 
+            "CommunityId":1333, 
+            "Address1":"6471 Moonstone Drive",
+            "Address2":null,
+            "ZipCode":"48439",
+            "PageURL":"/communities/mi/grand-blanc/gemstone-valley/1333/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-GemstoneValley-1858/1.Community_Area/DSC02554.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":1,
+            "PhoneNumber":"866-727-8583",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1320,
+            "MaxPayment":1394.88,
+            "GeneralComments":null, 
+            "Feature1":"1,400 sq. ft. Pool with Changing Facilities",
+            "Feature2":"Landscaped Playground for Children",
+            "Feature3":"Oversized Homesites, Sidewalks & Street Lighting", 
+            "Offers":[
+
+            ],
+            "PriceMin":227990,
+            "PriceMax":240990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2651,
+            "SqftMax":3036,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":4,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=jMDbRns37Ro&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"jMDbRns37Ro",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-GemstoneValley-1858/1.Community_Area/DSC02554.jpg",
+                  "caption":"View from new homesites",
+                  "Thumb":null
+               }
+            ],
+            "ID":1333, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Gemstone Valley"
+         },
+         {
+            "Point":{
+               "Latitude":42.513646,
+               "Longitude":-83.627157
+            }, 
+            "CommunityName":"Orchards of Lyon",
+            "City":"Lyon Township",
+            "StateAbbr":"MI", 
+            "CommunityId":209243, 
+            "Address1":"Grand River Avenue and Orchards Lane",
+            "Address2":null,
+            "ZipCode":"48165",
+            "PageURL":"/communities/MI/lyon-township/TheOrchards/209243/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/1. Community Area/WEB Kensington 2.jpg", 
+            "ComingSoonFlag":true, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"888-744-4824",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1308,
+            "MaxPayment":1435.17,
+            "GeneralComments":null, 
+            "Feature1":"Just 3 Minutes from Shopping Center and Restaurants",
+            "Feature2":"Kensington Metropark is Less than 5 Minutes Away",
+            "Feature3":"Prime Location Close to I-96 and US-23", 
+            "Offers":[
+               "Sneak Peek Model Walks Now Available!"
+            ],
+            "PriceMin":257990,
+            "PriceMax":282990,
+            "BedMin":3,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2133,
+            "SqftMax":2554,
+            "FeaturedCommunityFlag":true,
+            "PlanCount":3,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/1. Community Area/WEB Kensington 2.jpg",
+                  "caption":"Kensington Metropark is Less Than 5 Minutes Away",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/1. Community Area/WEB - Kensington.jpg",
+                  "caption":"Kensington Metropark is Less Than 5 Minutes Away",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/1. Community Area/web- kensington beach.jpg",
+                  "caption":"Kensington Metropark is Less Than 5 Minutes Away",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-TheOrchards/1. Community Area/WEB- Kensington 3.jpg",
+                  "caption":"Kensington Metropark is Less Than 5 Minutes Away",
+                  "Thumb":null
+               }
+            ],
+            "ID":209243, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Orchards of Lyon"
+         },
+         {
+            "Point":{
+               "Latitude":42.715854,
+               "Longitude":-82.933238
+            }, 
+            "CommunityName":"Strathmore",
+            "City":"Macomb",
+            "StateAbbr":"MI", 
+            "CommunityId":1464, 
+            "Address1":"19132 Gearhart Drive",
+            "Address2":null,
+            "ZipCode":"48042",
+            "PageURL":"/communities/mi/macomb/strathmore/1464/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/Strathmore/002.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"866-632-3622",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1493,
+            "MaxPayment":1492.99,
+            "GeneralComments":null, 
+            "Feature1":"Winding Sidewalks with Streetlamps",
+            "Feature2":"Near Macomb Twp Recreation Center",
+            "Feature3":"7 Miles from Stoney Creek Metropark", 
+            "Offers":[
+
+            ],
+            "PriceMin":269990,
+            "PriceMax":269990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2475,
+            "SqftMax":2475,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":1,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=KcISZtudmvo&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"KcISZtudmvo",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/Strathmore/002.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/WEB-MI-2222-CG-golf.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/WEB-MI-2222-CG-tot lot 02.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/WEB-MI-2222-CG-water.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/WEB-49044GracechurchRd_print_110.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Strathmore-2222/1.Community_Area/WEB-MI-2222-CG-shopping.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":1464, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Strathmore"
+         },
+         {
+            "Point":{
+               "Latitude":42.658265,
+               "Longitude":-82.967978
+            }, 
+            "CommunityName":"Westminister",
+            "City":"Macomb",
+            "StateAbbr":"MI", 
+            "CommunityId":2014, 
+            "Address1":"49085 Gracechurch Rd",
+            "Address2":null,
+            "ZipCode":"48044",
+            "PageURL":"/communities/mi/macomb/westminister/2014/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Westminister-2346/1.Community_Area/009.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":1,
+            "PhoneNumber":"800-727-3715",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1496,
+            "MaxPayment":1656.92,
+            "GeneralComments":null, 
+            "Feature1":"Highly Acclaimed Utica School District",
+            "Feature2":"Wide Community Sidewalks with Streetlights",
+            "Feature3":"Tree-Lined Streets", 
+            "Offers":[
+
+            ],
+            "PriceMin":277990,
+            "PriceMax":307990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2624,
+            "SqftMax":3036,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":5,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=oQkYftemoro&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"oQkYftemoro",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Westminister-2346/1.Community_Area/009.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Westminister-2346/1.Community_Area/006.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Westminister-2346/1.Community_Area/015.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-GemstoneValley-1858/4.ModelPhotography/Web GemstoneCrestwood/WEB-Crestwood9.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-GemstoneValley-1858/4.ModelPhotography/Web GemstoneCrestwood/WEB-Crestwood10.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-GemstoneValley-1858/4.ModelPhotography/Web GemstoneCrestwood/WEB-Crestwood11.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":2014, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Westminister"
+         },
+         {
+            "Point":{
+               "Latitude":42.719241,
+               "Longitude":-83.220233
+            }, 
+            "CommunityName":"Stonegate West",
+            "City":"Orion Township",
+            "StateAbbr":"MI", 
+            "CommunityId":209194, 
+            "Address1":"West off Squirrel, between Dutton and Silverbell",
+            "Address2":null,
+            "ZipCode":"48359",
+            "PageURL":"/communities/MI/lake-orion/StonegateWest/209194/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/Stonegate West/1, Community Area/WEB-MI-Stonegate-Downtown 3.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":4,
+            "PhoneNumber":"877-875-2708",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":0,
+            "MaxPayment":0,
+            "GeneralComments":null, 
+            "Feature1":"Highly Acclaimed Lake Orion School District ",
+            "Feature2":"Adjacent to 15-Acre Jesse Decker Park",
+            "Feature3":"Walk to Soccer Fields & a Baseball Diamond", 
+            "Offers":[
+
+            ],
+            "PriceMin":318590,
+            "PriceMax":349840,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2651,
+            "SqftMax":3255,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":4,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/Stonegate West/1, Community Area/WEB-MI-Stonegate-Downtown 3.jpg",
+                  "caption":"Minutes away from Downtown Lake Orion",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/Stonegate West/1, Community Area/WEB-MI-Stonegate-Downtown Lake Orion.jpg",
+                  "caption":"Minutes away from Downtown Lake Orion",
+                  "Thumb":null
+               }
+            ],
+            "ID":209194, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Stonegate West"
+         },
+         {
+            "Point":{
+               "Latitude":42.462743,
+               "Longitude":-83.627728
+            }, 
+            "CommunityName":"Pinehurst",
+            "City":"Lyon Township",
+            "StateAbbr":"MI", 
+            "CommunityId":2158, 
+            "Address1":"58725 Peters Barn",
+            "Address2":null,
+            "ZipCode":"48178",
+            "PageURL":"/communities/mi/lyon-township/pinehurst/2158/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/029.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":1,
+            "PhoneNumber":"877-875-2713",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1833,
+            "MaxPayment":2017.67,
+            "GeneralComments":null, 
+            "Feature1":"Over 50 Acres of Woods and Park Areas",
+            "Feature2":"13 Private Cul-De-Sacs",
+            "Feature3":"1 Mile to Historic Downtown South Lyon", 
+            "Offers":[
+
+            ],
+            "PriceMin":326990,
+            "PriceMax":359990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2624,
+            "SqftMax":3036,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":5,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=Tb4x2a3jTFw&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"Tb4x2a3jTFw",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/029.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/026.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/022.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/017.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Pinehurst-3322/1.Community_Area/016.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "MinTaxes":392,
+            "MinInsurance":95,
+            "MinMortgageInsurance":0,
+            "ID":2158, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Pinehurst"
+         },
+         {
+            "Point":{
+               "Latitude":42.74635,
+               "Longitude":-83.348808
+            }, 
+            "CommunityName":"Springdale at Oakhurst",
+            "City":"Clarkston",
+            "StateAbbr":"MI", 
+            "CommunityId":106533, 
+            "Address1":"6918 Oakhurst Ridge Road",
+            "Address2":null,
+            "ZipCode":"48348",
+            "PageURL":"/communities/MI/clarkston/SpringdaleatOakhurst/106533/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-MiddlesboroAtOakhurst-TBD/1.Community_Area/x-WEB-MI-MiddlesboroAtOakhurst-CG-ClubhouseEXT-02.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":2,
+            "PhoneNumber":"888-406-3043",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":2002,
+            "MaxPayment":2172.92,
+            "GeneralComments":null, 
+            "Feature1":"Gated Golf Course Community",
+            "Feature2":"1/2 Acre Home Sites",
+            "Feature3":"Colonials and First Floor Masters Available", 
+            "Offers":[
+
+            ],
+            "PriceMin":349990,
+            "PriceMax":379990,
+            "BedMin":3,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":3.5,
+            "SqftMin":3250,
+            "SqftMax":3753,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":5,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=n5N00NrlcIY&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"n5N00NrlcIY",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-MiddlesboroAtOakhurst-TBD/1.Community_Area/x-WEB-MI-MiddlesboroAtOakhurst-CG-ClubhouseEXT-02.jpg",
+                  "caption":"Oakhurst Golf & Country Club",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-MiddlesboroAtOakhurst-TBD/1.Community_Area/x-WEB-MI-MiddlesboroAtOakhurst-CG-ClubhouseEXT-03.jpg",
+                  "caption":"Oakhurst\u0027s 42,000 sq. ft. Clubhouse",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-MiddlesboroAtOakhurst-TBD/1.Community_Area/WEB-MI-MiddlesboroAtOakhurst-CG-ClubhouseEXT-04.jpg",
+                  "caption":"18-Hole Arthur Hills Course",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-MiddlesboroAtOakhurst-TBD/1.Community_Area/Oakhurst/002.jpg",
+                  "caption":"Welcome to Oakhurst",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Springdale at Oakhurst/1. Community_Area/012.jpg",
+                  "caption":"Oakhurst\u0027s Clubhouse Pool",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-Springdale at Oakhurst/1. Community_Area/014.jpg",
+                  "caption":"Junior Olympic Sized Swimming Pool",
+                  "Thumb":null
+               }
+            ],
+            "ID":106533, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Springdale at Oakhurst"
+         },
+         {
+            "Point":{
+               "Latitude":42.774469,
+               "Longitude":-83.317714
+            }, 
+            "CommunityName":"Hills at Indianwood",
+            "City":"Lake Orion",
+            "StateAbbr":"MI", 
+            "CommunityId":1908, 
+            "Address1":"3720 Barn Meadow Ln",
+            "Address2":null,
+            "ZipCode":"48362",
+            "PageURL":"/communities/mi/lake-orion/hills-at-indianwood/1908/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HillsAtIndianwood-2539/1.Community_Area/015.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":1,
+            "PhoneNumber":"877-875-2709",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":1998,
+            "MaxPayment":2210.55,
+            "GeneralComments":null, 
+            "Feature1":"1/2 Acre+ Wooded Home Sites",
+            "Feature2":"Minutes to Award-Winning Schools",
+            "Feature3":"Walking Trails Connected to Lake Orion Trails", 
+            "Offers":[
+
+            ],
+            "PriceMin":356990,
+            "PriceMax":394990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":3.5,
+            "SqftMin":2902,
+            "SqftMax":3753,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":5,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HillsAtIndianwood-2539/1.Community_Area/015.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HillsAtIndianwood-2539/1.Community_Area/006.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "MinTaxes":425,
+            "MinInsurance":104,
+            "MinMortgageInsurance":0,
+            "ID":1908, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Hills at Indianwood"
+         },
+         {
+            "Point":{
+               "Latitude":42.285910686,
+               "Longitude":-83.526629373
+            }, 
+            "CommunityName":"The Hamlet Gardens",
+            "City":"Canton",
+            "StateAbbr":"MI", 
+            "CommunityId":1616, 
+            "Address1":"49468 Great Falls Drive",
+            "Address2":null,
+            "ZipCode":"48188",
+            "PageURL":"/communities/mi/canton/hamlet-gardens/1616/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/013.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":1,
+            "PhoneNumber":"866-285-6949",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":2098,
+            "MaxPayment":2126.58,
+            "GeneralComments":null, 
+            "Feature1":"Plymouth/Canton School District",
+            "Feature2":"Lighted Community Tennis Courts",
+            "Feature3":"Community Center Hosts Special Community-Wide Events", 
+            "Offers":[
+
+            ],
+            "PriceMin":364000,
+            "PriceMax":369000,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2725,
+            "SqftMax":2778,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":2,
+            "CommunityGalleryVideoURL":"",
+            "CommunityGalleryVideoCode":"",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/013.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/029.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/023.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/022.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-HamletGardens-2721/1.Community_Area/019.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":1616, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/The Hamlet Gardens"
+         },
+         {
+            "Point":{
+               "Latitude":42.495788,
+               "Longitude":-83.490929
+            }, 
+            "CommunityName":"Liberty Park",
+            "City":"Novi",
+            "StateAbbr":"MI", 
+            "CommunityId":1581, 
+            "Address1":"44831 Stockton Drive",
+            "Address2":null,
+            "ZipCode":"48377",
+            "PageURL":"/communities/mi/novi/liberty-park/1581/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-LibertyPark-2614/1.Community_Area/023.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":0,
+            "PhoneNumber":"877-875-2710",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":2211,
+            "MaxPayment":2495.27,
+            "GeneralComments":null, 
+            "Feature1":"Novi Community Schools",
+            "Feature2":"Swimming Pool, Pool House, Tot Lot",
+            "Feature3":"Community Sidewalks", 
+            "Offers":[
+
+            ],
+            "PriceMin":373990,
+            "PriceMax":421990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2200,
+            "SqftMax":3057,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":4,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=ZNYcttxFTh4&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"ZNYcttxFTh4",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-LibertyPark-2614/1.Community_Area/023.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-LibertyPark-2614/1.Community_Area/014.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-LibertyPark-2614/1.Community_Area/009.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-LibertyPark-2614/1.Community_Area/010.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":1581, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Liberty Park"
+         },
+         {
+            "Point":{
+               "Latitude":42.452754,
+               "Longitude":-83.422903
+            }, 
+            "CommunityName":"Walnut Ridge",
+            "City":"Farmington Hills",
+            "StateAbbr":"MI", 
+            "CommunityId":207775, 
+            "Address1":"22383 Acadia Way",
+            "Address2":null,
+            "ZipCode":"48167",
+            "PageURL":"/communities/mi/farmington-hills/walnut-ridge/207775/index1.aspx",
+            "ImagePath":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-WalnutRidge/1.Community_Area/Walnut Ridge Community/WEB - WR Community5.jpg", 
+            "ComingSoonFlag":false, 
+            "CreatedDate":"\/Date(-62135571600000)\/",
+            "HomesAvailable":2,
+            "PhoneNumber":"877-892-8720",
+            "OLMPhoneNumber":null,
+            "BubbleContent":null,
+            "PlanTypeName":"Single Family Home",
+            "MinPayment":2226,
+            "MaxPayment":2443.89,
+            "GeneralComments":null, 
+            "Feature1":"Farmington Public School District",
+            "Feature2":"Central Location to Shopping, Restaurants and Highways",
+            "Feature3":"5-Minute Drive to Downtown Farmington ", 
+            "Offers":[
+
+            ],
+            "PriceMin":398990,
+            "PriceMax":437990,
+            "BedMin":4,
+            "BedMax":4,
+            "BathMin":2.5,
+            "BathMax":2.5,
+            "SqftMin":2651,
+            "SqftMax":3255,
+            "FeaturedCommunityFlag":false,
+            "PlanCount":4,
+            "CommunityGalleryVideoURL":"https://www.youtube.com/watch?v=LGrIvy29SYI&modestbranding=0&rel=0&border=1&title=&wmode=opaque&showinfo=1",
+            "CommunityGalleryVideoCode":"LGrIvy29SYI",
+            "ImagesArrayForSearchResults":[
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-WalnutRidge/1.Community_Area/Walnut Ridge Community/WEB - WR Community5.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-WalnutRidge/1.Community_Area/Walnut Ridge Community/WEB - WR Community4.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-WalnutRidge/1.Community_Area/Walnut Ridge Community/WEB - WR Community6.jpg",
+                  "caption":"",
+                  "Thumb":null
+               },
+               {
+                  "image":"/assets/images/Marketing_Library/Images/Product/Michigan/MI-PU-WalnutRidge/1.Community_Area/Walnut Ridge Community/WEB - WR Community7.jpg",
+                  "caption":"",
+                  "Thumb":null
+               }
+            ],
+            "ID":207775, 
+            "GeoHierarchy":"Product/Central/Michigan/Detroit/Walnut Ridge"
+         }
+      ]
+   }
+}
